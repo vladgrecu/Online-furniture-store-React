@@ -1,0 +1,22 @@
+.category-card-category-card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+
+
+
+
+
+@media(max-width: 767px) {
+  .category-card-category-card {
+    width: 48%;
+  }
+}
+@media(max-width: 479px) {
+  .category-card-category-card {
+    width: 100%;
+  }
+}

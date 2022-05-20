@@ -1,0 +1,29 @@
+.item-card-image {
+  object-fit: cover;
+}
+.item-card-container {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.item-card-root-class-name {
+  flex: 1;
+}
+
+
+
+.item-card-root-class-name4 {
+  flex: 1;
+  height: 100%;
+}
+
+
+.item-card-root-class-name7 {
+  flex: 1;
+  height: 100%;
+}
+
+
+
+

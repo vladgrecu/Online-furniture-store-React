@@ -1,0 +1,10 @@
+.pricing-container {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+}
+
+
